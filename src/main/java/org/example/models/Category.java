@@ -1,6 +1,8 @@
-package org.example;
+package org.example.models;
 
 public class Category {
+    public Category(){}
+
     public Category(String categoryName, int categoryId){
         this.categoryName = categoryName;
         this.categoryId= categoryId;

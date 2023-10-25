@@ -1,10 +1,6 @@
 package org.example;
 
-import org.example.Category;
-import org.example.Product;
-import org.example.Order;
-import org.example.User;
-
+import org.example.models.*;
 
 public class Main {
     public static void main(String[] args) {
